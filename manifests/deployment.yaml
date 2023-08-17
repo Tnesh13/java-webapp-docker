@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker:v5
+          image: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker:v6
           imagePullPolicy: Always
           ports:
             - containerPort: 80
