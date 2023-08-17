@@ -14,10 +14,8 @@ spec:
     spec:
       containers:
         - name: my-container
-          image: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker:v1
+          image: registry-intl.ap-southeast-3.aliyuncs.com/tinesh-poc-devops/java-webapp-docker:v5
           imagePullPolicy: Always
           ports:
             - containerPort: 80
-      syncPolicy:
-        automated:
-          selfHeal: true
+  
