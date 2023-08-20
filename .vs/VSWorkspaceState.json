@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\manifests",
-    "\\src",
-    "\\src\\main",
-    "\\src\\main\\webapp",
-    "\\src\\main\\webapp\\WEB-INF"
+    ""
   ],
-  "SelectedNode": "\\src\\main\\webapp\\index.jsp",
   "PreviewInSolutionExplorer": false
 }
